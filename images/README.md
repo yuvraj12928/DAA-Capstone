@@ -1,0 +1,1 @@
+Generated evidence belongs here. Run `python3 main.py --benchmark` then `python3 scripts/plot_runtime.py` to create the runtime CSV and SVG chart.

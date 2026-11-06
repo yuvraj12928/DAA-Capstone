@@ -1,0 +1,1 @@
+"""Mini-Courier Planner package."""

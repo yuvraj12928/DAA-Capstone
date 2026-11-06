@@ -1,0 +1,9 @@
+parcel_id,destination,weight,value,priority,deadline
+P01,North Hub,4,80,5,2
+P02,East Hub,6,95,3,1
+P03,West Hub,3,55,4,3
+P04,South Hub,5,70,2,2
+P05,Central Mall,2,45,5,1
+P06,Tech Park,7,110,1,4
+P07,Airport,4,65,4,2
+P08,University,3,60,3,3

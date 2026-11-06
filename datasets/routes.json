@@ -1,0 +1,11 @@
+{
+  "Depot": {"North Hub": 4, "East Hub": 6, "West Hub": 5, "South Hub": 7, "Central Mall": 3, "Tech Park": 8, "Airport": 9, "University": 6},
+  "North Hub": {"Depot": 4, "East Hub": 3, "West Hub": 4, "Central Mall": 2},
+  "East Hub": {"Depot": 6, "North Hub": 3, "South Hub": 3, "Tech Park": 4},
+  "West Hub": {"Depot": 5, "North Hub": 4, "South Hub": 2, "University": 3},
+  "South Hub": {"Depot": 7, "East Hub": 3, "West Hub": 2, "Airport": 4},
+  "Central Mall": {"Depot": 3, "North Hub": 2, "Tech Park": 3, "University": 4},
+  "Tech Park": {"Depot": 8, "East Hub": 4, "Central Mall": 3, "Airport": 2},
+  "Airport": {"Depot": 9, "South Hub": 4, "Tech Park": 2, "University": 5},
+  "University": {"Depot": 6, "West Hub": 3, "Central Mall": 4, "Airport": 5}
+}
